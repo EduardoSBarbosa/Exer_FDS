@@ -10,7 +10,7 @@ public class CodificadorSimples implements Codificador {
     }
 
     public int getNivelSeguranca(){
-        return 1;
+        return 2;
     }
 
     public String codifica(String str) {
